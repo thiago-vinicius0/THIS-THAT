@@ -1,0 +1,6 @@
+{
+  "name": "THIS & THAT - Gerenciador de Torneios Brawl Stars",
+  "description": "Plataforma de gerenciamento e divulgação de campeonatos competitivos de Brawl Stars com chaves, grupos, sorteios e tabelas inteligentes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
